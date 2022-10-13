@@ -64,7 +64,7 @@ body {
   background-color: #3d583f6b;
   margin: 7px;
   font-size: 14pt;
-  padding: 12px;
+  padding: 0.8vw;
   width: 80%;
   height: 50px;
   text-align: center;
@@ -75,7 +75,7 @@ body {
   background-color: #e5ebe6d8;
   border-radius: 5px;
   border-width: 1px;
-  font-size: 14pt;
+  font-size: 1vw;
   width: 98%;
   margin: 5px;
   padding: 8px;
@@ -109,8 +109,6 @@ body {
   padding-bottom: 1em;
 }
 .empty-list{
-  /* list-style-type: none; */
-  /* background-color: #CDCDCD; */
   border: none;
   display: flex;
   flex-direction: column;
@@ -118,7 +116,7 @@ body {
   align-content: center;
 }
 .empty-list-title {
-  font-size: 28px;
+  font-size: 2vw;
   margin-bottom: 15px;
   font-weight: 300;
 }
@@ -168,7 +166,7 @@ body {
 }
 .header{
   margin-top: 20px;
-  font-size: 40px;
+  font-size: 2vw;
 }
 .undertext{
   top: 80px;
